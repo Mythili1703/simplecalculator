@@ -4,4 +4,4 @@ function add() {
     document.getElementById("result").value = Number(num1) + Number(num2);
 }
 
-mythili S
+
